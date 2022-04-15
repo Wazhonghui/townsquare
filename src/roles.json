@@ -1,11 +1,11 @@
 [
   {
-    "id": "washerwoman",
-    "name": "Washerwoman",
-    "edition": "tb",
-    "team": "townsfolk",
-    "firstNight": 32,
-    "firstNightReminder": "Show the character token of a Townsfolk in play. Point to two players, one of which is that character.",
+    "id": "甄嬛",
+    "name": "甄嬛",
+    "edition": "甄嬛传",
+    "team": "镇民",
+    "firstNight": 0,
+    "firstNightReminder": "",
     "otherNight": 0,
     "otherNightReminder": "",
     "reminders": ["Townsfolk",
